@@ -48,7 +48,7 @@ When used in our code, we can make it look like the following:
 import Mathium from "mathiumjs";
 
 function tangentCalc(opp, adj) {
-  let formula = Mathium.findTangent(opp, adjacent);
+  let formula = Mathium.findTangent(opp, adj);
   return formula;
 }
 
@@ -64,7 +64,7 @@ When used in our code, we can make it look like the following:
 import Mathium from "mathiumjs";
 
 function tangentCalc(opp, adj) {
-  let formula = Mathium.findTangent(opp, adjacent);
+  let formula = Mathium.findTangent(opp, adj);
   return formula;
 }
 
